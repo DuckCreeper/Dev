@@ -1,0 +1,10 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "harvestcraft:SAPLINGs/fig_SAPLING"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}]
+  }
+}

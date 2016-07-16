@@ -1,0 +1,10 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "harvestcraft:SAPLINGs/grapefruit_SAPLING"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}]
+  }
+}
